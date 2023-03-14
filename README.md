@@ -1,0 +1,16 @@
+<h3 align="center"><img src="JavaScript-logo.png" height="128"/><br>JavaScript Speedrun</h3>
+<hr>
+<h3 align="center"><i>Ez Pz JS learning shortcut</i></h3>
+<hr>
+
+
+<div align="center">
+<strong> Order of Learning:</strong> <br>
+variables101.js >
+functions101.js >
+if101.js >
+loops101.js</div>
+
+<hr>
+
+## How To install
