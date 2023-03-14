@@ -13,4 +13,15 @@ loops101.js</div>
 
 <hr>
 
-## How To install
+## How To Use This
+
+1. Install [Node.js](https://nodejs.org/en/)
+2. Clone this repo.
+```
+git clone https://github.com/ariqfraser/Javascript-Speedrun-Course.git
+```
+3. open in VS.
+
+```
+code Javascript-Speedrun-Course 
+```
